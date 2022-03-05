@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.Form1.resources
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\bin\Debug\modul2_1302204024.exe.config
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\bin\Debug\modul2_1302204024.exe
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\bin\Debug\modul2_1302204024.pdb
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.exe
+C:\Users\ASUS\source\repos\Jurnal\modul2_1302204024\modul2_1302204024\obj\Debug\modul2_1302204024.pdb
