@@ -36,7 +36,7 @@ namespace modul2_1302204024
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "2";
             }
@@ -50,7 +50,7 @@ namespace modul2_1302204024
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "3";
             }
@@ -62,7 +62,7 @@ namespace modul2_1302204024
 
         private void button4_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "4";
             }
@@ -74,7 +74,7 @@ namespace modul2_1302204024
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "5";
             }
@@ -86,7 +86,7 @@ namespace modul2_1302204024
 
         private void button6_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "6";
             }
@@ -98,7 +98,7 @@ namespace modul2_1302204024
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "7";
             }
@@ -110,7 +110,7 @@ namespace modul2_1302204024
 
         private void button8_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "8";
             }
@@ -122,7 +122,7 @@ namespace modul2_1302204024
 
         private void button9_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "label")
+            if (label1.Text == "0")
             {
                 label1.Text = "9";
             }
@@ -134,7 +134,7 @@ namespace modul2_1302204024
 
         private void button11_Click(object sender, EventArgs e)
         {
-            if (label1.Text != "0" && label1.Text == " ")
+            if (label1.Text != "0" && label1.Text != " ")
             {
                 label1.Text += "0";
             }
@@ -167,6 +167,11 @@ namespace modul2_1302204024
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)
         {
 
         }
